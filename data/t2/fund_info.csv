@@ -1,0 +1,4 @@
+ticker,fund_name,asset_class,exchange,currency,expense_ratio_pct,fee_source_url,fee_disclosure_date,fee_accessed_on
+SPY,State Street SPDR S&P 500 ETF Trust,US equities,NYSE Arca,USD,0.0945,https://www.ssga.com/us/en/individual/etfs/state-street-spdr-sp-500-etf-trust-spy,Fund-information as-of date: 2026-09-10; fee-specific effective date not stated,2026-09-25
+TLT,iShares 20+ Year Treasury Bond ETF,Long-term US Treasury bonds,Nasdaq,USD,0.15,https://www.ishares.com/us/products/239454/ishares-202026-treasury-bond-etf,Current prospectus; specific date not stated in the fee panel,2026-09-25
+GLD,SPDR Gold Trust,Gold,NYSE Arca,USD,0.4,https://www.spdrgoldshares.com/usa/gld/,Not stated in the selected field,2026-09-25
